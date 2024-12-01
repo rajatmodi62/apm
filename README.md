@@ -135,4 +135,4 @@ This achievement reflects the collective effort of many brilliant minds and supp
 
 We are grateful to Sindy Lowe's [work](https://github.com/loeweX/RotatingFeatures) for help in organizing our codebase.
 
-There are many conversations and emails which went behind this work. That is a story best told in-person respecting the mutual identities of everyone involved and honoring academic tradition/professionalism.
+There are many conversations and emails which went behind this work. That is a story best told in-person, respecting the mutual identities of everyone involved and honoring academic tradition/professionalism.
