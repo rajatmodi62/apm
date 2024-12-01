@@ -90,6 +90,7 @@ python 1_extract_coco_features.py
 python train.py
 ```
 
+You may need to download coco-train set and save it  in the data/ directory for training. Otherwise, you can finetune on the checkpoints we have shared.
 ## Islands of Agreement
 
 We illustrate that the idea of islands of agreement in the GLOM paper actually works. The below video has been shared **with permission** from Geoffrey Hinton. 
