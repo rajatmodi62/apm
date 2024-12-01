@@ -131,7 +131,7 @@ to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com). I will get onto it as 
 
 ## Acknowledgements
 
-This achievement reflects the collective effort of many brilliant minds and supporters, and we are deeply grateful for their contributions. We are greatly indebted to the contributions of Vonn Neumann to theory of self-reproducing automata and Alan Turing's Morphogenesis.  It has been a privilege to get the chance to work on GLOM. We are grateful to Sindy Lowe's [work](https://github.com/loeweX/RotatingFeatures) for help in organizing our codebase. There are many other conversations and people involved over the years that led to this work. A story to cheer upon 🍺🍺 when we all run into each-other. :-)
+This achievement reflects the collective effort of many brilliant minds and supporters, and we are deeply grateful for their contributions. We are greatly indebted to the contributions of Vonn Neumann to theory of self-reproducing automata and Alan Turing's Morphogenesis.  It has been a privilege to get the chance to work on GLOM. We are grateful to Sindy Lowe's [work](https://github.com/loeweX/RotatingFeatures) for help in organizing our codebase. There are many other conversations and people involved over the years that led to this moment. A story to cheer upon 🍺🍺 when we all run into each-other. :-)
 
 thank you so much, <br>
 rajat
