@@ -3,6 +3,7 @@
 <p align="center">
   <img src="assets/arch.png" alt="Rotating Features for Object Discovery" width="600"/>
 </p>
+
 ### [Paper](https://arxiv.org/pdf/2410.20535) | [OpenReview Comments](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73721.png?t=1699494223.0217297)| [Blog](dummy) | 
 
 This repository contains the code for the
