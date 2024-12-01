@@ -4,7 +4,10 @@
   <img src="assets/arch.png" alt="Rotating Features for Object Discovery" width="600"/>
 </p>
 
+<p align="center">
 ### [Paper](https://arxiv.org/pdf/2410.20535) | [Openreview](https://openreview.net/forum?id=7Ye12RLZ4P&referrer=%5Bthe%20profile%20of%20Rajat%20Modi%5D(%2Fprofile%3Fid%3D~Rajat_Modi1))| [Blog](https://rajatmodi62.github.io/2024/10/26/hinton_apm-copy/) | [Project Page](https://rajatmodi62.github.io/apm_project_page/) | 
+</p>
+
 
 This repository contains the code for the
 paper [Asynchronous Perception Machine For Efficient Test Time Training](https://arxiv.org/pdf/2410.20535) by Rajat Modi And Yogesh Singh Rawat
