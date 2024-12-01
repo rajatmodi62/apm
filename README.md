@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/arch.png" alt="Rotating Features for Object Discovery" width="600"/>
 </p>
-### [Paper](https://arxiv.org/pdf/2410.20535) | [OpenReview Comments](https://openreview.net/forum?id=7Ye12RLZ4P&referrer=%5Bthe%20profile%20of%20Rajat%20Modi%5D(%2Fprofile%3Fid%3D~Rajat_Modi1))| [Blog](https://rajatmodi62.github.io/2024/10/26/hinton_apm-copy/) | 
+### [Paper](https://arxiv.org/pdf/2410.20535) | [OpenReview Comments](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73721.png?t=1699494223.0217297)| [Blog](dummy) | 
 
 This repository contains the code for the
 paper [Asynchronous Perception Machine For Efficient Test Time Training](https://arxiv.org/pdf/2410.20535) by Rajat Modi And Yogesh Singh Rawat
