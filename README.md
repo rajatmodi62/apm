@@ -104,9 +104,11 @@ When using this code, please cite our paper:
 ## Contact
 
 For questions and suggestions, feel free to open an issue on GitHub or send an email
-to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com).
+to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com). I will try to get onto it whenever i get time. 
 
 
 ## Acknowledgements
 
 This achievement reflects the collective effort of many brilliant minds and supporters, and we are deeply grateful for their contributions. We are greatly indebted to the contributions of Vonn Neumann to theory of self-reproducing automata and Alan Turing's Morphogenesis. 
+
+We are grateful to Sindy Lowe's [work](https://github.com/loeweX/RotatingFeatures) for help in organizing our codebase.
