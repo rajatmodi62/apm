@@ -42,10 +42,17 @@ python predict_test_image.py
 
 - Interpolate between any two images in the wild. A similar result was shown in the GAN paper, and diffusion too. We can do such interpolation in the MLP now. 
 
-
-
 ```bash
 python interpolate.py
 ```
 
+- One sample learning, which is used in test-time-training. This illustrates the ability of the APM to learn on a single CLS token distilled from a teacher, for eg, CLIP. 
 
+In practice, we observed that a higher-parameterized teacher leads to higher-performance. 
+
+```bash
+cd single_token_segmentation
+python train_tta.py
+```
+
+Please follow the installation setting of the original clip repo to run this particular part of the code. You can find those installation instruction [here](https://github.com/openai/CLIP).
