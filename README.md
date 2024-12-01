@@ -68,6 +68,14 @@ python train_tta.py
 Please follow the installation setting of the original clip repo to run this particular part of the code. You can find those installation instruction [here](https://github.com/openai/CLIP).
 
 
+- Computational Analysis
+
+```bash
+cd flop_analysis
+python count_flops.py
+python count_memory.py
+python count_parameters.py
+```
 ## Islands of Agreement
 
 We illustrate that the idea of islands of agreement in the GLOM paper actually works. The below video has been shared **with permission** from Geoffrey Hinton. 
