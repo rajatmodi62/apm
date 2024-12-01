@@ -97,3 +97,6 @@ For questions and suggestions, feel free to open an issue on GitHub or send an e
 to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com).
 
 
+## Acknowledgements
+
+This achievement reflects the collective effort of many brilliant minds and supporters, and we are deeply grateful for their contributions.
