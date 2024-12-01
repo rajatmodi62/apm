@@ -126,7 +126,7 @@ When using this code, please cite our paper:
 ## Contact
 
 For questions and suggestions, feel free to open an issue on GitHub or send an email
-to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com). I will try to get onto it whenever i get time. 
+to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com). I will get onto it as soon as possible. 
 
 
 ## Acknowledgements
