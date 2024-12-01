@@ -56,3 +56,44 @@ python train_tta.py
 ```
 
 Please follow the installation setting of the original clip repo to run this particular part of the code. You can find those installation instruction [here](https://github.com/openai/CLIP).
+
+
+## Islands of Agreement
+
+We illustrate that the idea of islands of agreement in the GLOM paper actually works. The below video has been shared after permission from Geoffrey Hinton. 
+
+<div align="center">
+<img src="assets/island_hinton.gif" alt="Hinton's Islands of agreement" width="600" height="300">
+</div>
+
+To plot similar islands for any image in the wild, please follow the proper steps [here](https://github.com/rajatmodi62/OccludedActionBenchmark/tree/main?tab=readme-ov-file#glom-hintons-islands-of-agreement)
+
+
+
+## Citation
+
+When using this code, please cite our paper:
+
+```
+@article{modi2024asynchronous,
+  title={Asynchronous Perception Machine For Efficient Test-Time-Training},
+  author={Modi, Rajat and Rawat, Yogesh Singh},
+  journal={arXiv preprint arXiv:2410.20535},
+  year={2024}
+}
+
+
+@article{modi2024apm,
+  title={Rotating Features for Object Discovery},
+  author={Modi, Rajat and Rawat, Yogesh},
+  journal={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
+```
+
+## Contact
+
+For questions and suggestions, feel free to open an issue on GitHub or send an email
+to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com).
+
+
