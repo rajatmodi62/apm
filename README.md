@@ -99,4 +99,4 @@ to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com).
 
 ## Acknowledgements
 
-This achievement reflects the collective effort of many brilliant minds and supporters, and we are deeply grateful for their contributions.
+This achievement reflects the collective effort of many brilliant minds and supporters, and we are deeply grateful for their contributions. We are greatly indebted to the contributions of Vonn Neumann to theory of self-reproducing automata and Alan Turing's Morphogenesis. 
