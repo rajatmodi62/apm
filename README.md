@@ -76,6 +76,10 @@ python count_flops.py
 python count_memory.py
 python count_parameters.py
 ```
+
+This should yield the same numbers as the computational analysis table i.e. Table 4 in the APM paper.
+
+
 ## Islands of Agreement
 
 We illustrate that the idea of islands of agreement in the GLOM paper actually works. The below video has been shared **with permission** from Geoffrey Hinton. 
