@@ -81,7 +81,6 @@ This should yield the same numbers as the computational analysis table i.e. Tabl
 
 - Scaling Up experiments on COCO dataset
 
-Here we share the training code on the COCO dataset. Basically, we first dump features from Dinov2 backbone on coco-train set. 
 
 ```bash
 cd misc_scripts
@@ -89,8 +88,8 @@ python resize_coco_images.py
 python 1_extract_coco_features.py
 python train.py
 ```
+Here we share the training code on the COCO dataset. Basically, we first dump features from Dinov2 backbone on coco-train set. You may need to download coco-train set and save it  in the data/ directory for training. Otherwise, you can finetune on the checkpoints we have shared.
 
-You may need to download coco-train set and save it  in the data/ directory for training. Otherwise, you can finetune on the checkpoints we have shared.
 ## Islands of Agreement
 
 We illustrate that the idea of islands of agreement in the GLOM paper actually works. The below video has been shared **with permission** from Geoffrey Hinton. 
