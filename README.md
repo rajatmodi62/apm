@@ -131,10 +131,7 @@ to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com). I will try to get onto
 
 ## Acknowledgements
 
-This achievement reflects the collective effort of many brilliant minds and supporters, and we are deeply grateful for their contributions. We are greatly indebted to the contributions of Vonn Neumann to theory of self-reproducing automata and Alan Turing's Morphogenesis. 
+This achievement reflects the collective effort of many brilliant minds and supporters, and we are deeply grateful for their contributions. We are greatly indebted to the contributions of Vonn Neumann to theory of self-reproducing automata and Alan Turing's Morphogenesis.  We are grateful to Sindy Lowe's [work](https://github.com/loeweX/RotatingFeatures) for help in organizing our codebase.There are many other conversations over the years which led to this work. A story if we ever run into each-other. :-)
 
-We are grateful to Sindy Lowe's [work](https://github.com/loeweX/RotatingFeatures) for help in organizing our codebase.
-
-There are many other conversations behind this work. A story best told in-person, respecting the mutual identities of everyone involved and honoring academic tradition/professionalism.
-
-- rajat
+best, 
+rajat
