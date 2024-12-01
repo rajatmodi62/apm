@@ -81,7 +81,7 @@ This should yield the same numbers as the computational analysis table i.e. Tabl
 
 - Scaling Up experiments on COCO dataset
 
-The above code is pure inference on COCO. Here we share the training code on the COCO dataset. Basically, we first dump features from Dinov2 backbone on coco-train set. 
+Here we share the training code on the COCO dataset. Basically, we first dump features from Dinov2 backbone on coco-train set. 
 
 ```bash
 cd misc_scripts
