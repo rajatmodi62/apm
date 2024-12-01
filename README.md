@@ -70,7 +70,7 @@ Please follow the installation setting of the original clip repo to run this par
 
 ## Islands of Agreement
 
-We illustrate that the idea of islands of agreement in the GLOM paper actually works. The below video has been shared **after relevant permission** from Geoffrey Hinton. 
+We illustrate that the idea of islands of agreement in the GLOM paper actually works. The below video has been shared **with permission** from Geoffrey Hinton. 
 
 <div align="center">
 <img src="assets/island_hinton.gif" alt="Hinton's Islands of agreement" width="600" height="300">
