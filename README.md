@@ -1,4 +1,4 @@
-# Asynchronous Perception Machine For Efficient Test Time Training 
+# [NeurIPS24] Asynchronous Perception Machine For Efficient Test Time Training 
 
 <p align="center">
   <img src="assets/arch.png" alt="Rotating Features for Object Discovery" width="600"/>
