@@ -79,6 +79,16 @@ python count_parameters.py
 
 This should yield the same numbers as the computational analysis table i.e. Table 4 in the APM paper.
 
+- Scaling Up experiments on COCO dataset
+
+The above code is pure inference on COCO. Here we share the training code on the COCO dataset. Basically, we first dump features from Dinov2 backbone on coco-train set. 
+
+```bash
+cd misc_scripts
+python resize_coco_images.py
+python 1_extract_coco_features.py
+python train.py
+```
 
 ## Islands of Agreement
 
