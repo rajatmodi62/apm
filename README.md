@@ -107,14 +107,6 @@ To plot similar islands for any image in the wild, please follow the proper step
 When using this code, please cite our paper:
 
 ```
-@article{modi2024asynchronous,
-  title={Asynchronous Perception Machine For Efficient Test-Time-Training},
-  author={Modi, Rajat and Rawat, Yogesh Singh},
-  journal={arXiv preprint arXiv:2410.20535},
-  year={2024}
-}
-
-
 @article{modi2024apm,
   title={Asynchronous Perception Machine For Efficient Test-Time-Training},
   author={Modi, Rajat and Rawat, Yogesh},
