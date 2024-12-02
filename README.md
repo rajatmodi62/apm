@@ -116,7 +116,7 @@ When using this code, please cite our paper:
 
 
 @article{modi2024apm,
-  title={Rotating Features for Object Discovery},
+  title={Asynchronous Perception Machine For Efficient Test-Time-Training},
   author={Modi, Rajat and Rawat, Yogesh},
   journal={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
