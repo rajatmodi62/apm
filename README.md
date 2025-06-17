@@ -128,8 +128,9 @@ This achievement reflects the collective effort of many brilliant minds, and we 
 ## License
 
 Patent Pending. Use subject to Apache License 2.0. See LICENSE file.
-Copyright [2025] [Rajat Modi, Yogesh Singh Rawat]
+
     
+    Copyright [2025] [Rajat Modi, Yogesh Singh Rawat]
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
