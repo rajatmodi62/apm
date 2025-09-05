@@ -129,4 +129,4 @@ This software is the property of UCF and any prior indication of APACHE 2.0  lic
 
 ## License
 
-Patent Pending. Use subject to BSD 3-Clause Clear License. See LICENSE file.
+Use subject to BSD 3-Clause Clear License. See LICENSE file.
