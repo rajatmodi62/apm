@@ -125,6 +125,8 @@ to [rajatmodi62@gmail.com](mailto:rajatmodi62@gmail.com). I will get onto it as 
 
 This achievement reflects the collective effort of many brilliant minds, and we are deeply grateful for their contributions. 
 
+This software is the property of UCF and any prior indication of APACHE 2.0  licensing was in error. No open-source license is currently granted. All rights reserved.
+
 ## License
 
 Patent Pending. Use subject to Apache License 2.0. See LICENSE file.
